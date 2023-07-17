@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>测试文章</title>
+      <link href="/post/7a6a6b5a.html"/>
+      <url>/post/7a6a6b5a.html</url>
+      
+        <content type="html"><![CDATA[<p>这是一篇测试文章</p><p><img src="D:\blog\source_posts\测试文章\try.jpg" alt="图片引用"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 感想 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 原创 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="/post/4a17b156.html"/>
       <url>/post/4a17b156.html</url>
